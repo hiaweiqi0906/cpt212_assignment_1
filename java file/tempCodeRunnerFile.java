@@ -1,7 +1,1 @@
-try{
-            
-        // }
-        //     catch(IOException e)  
-        // {  
-        //     e.printStackTrace();  
-        // }  
+arr[i].charAt(index)-lower
